@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Welcome to Yang's research page! (Understand Construction)
+subtitle: Welcome to Yang Liu's research page!
 earth: false
 profile:
   align: center
