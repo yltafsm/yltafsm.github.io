@@ -9,16 +9,37 @@ thumbnail: "https://userdir.tafsm.org/~yliu/website/images/helicopters/mesh-movi
 ---
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-mesh.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+
+Helicopter in hover state.
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_pitch.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_yaw.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_roll.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
-<div class="caption">
-   Mesh moving for helicopter pitch, yaw, and roll movement
+
+Mesh moving for helicopter pitch, yaw, and roll movement
+
+<div class="row mt-3">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-mesh.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
 </div>
+
+Surface mesh for helicopter body, main rotor and tail rotor.
