@@ -10,7 +10,7 @@ thumbnail: "https://userdir.tafsm.org/~yliu/website/images/helicopters/mesh-movi
 
 <div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-body.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202310-body.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
