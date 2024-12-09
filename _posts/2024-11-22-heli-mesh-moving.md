@@ -8,27 +8,27 @@ categories: ST-SI
 thumbnail: "https://userdir.tafsm.org/~yliu/website/images/helicopters/mesh-moving/ball-pitch.png"
 ---
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-mesh.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-body.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
 Helicopter in hover state.
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_pitch.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_yaw.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/mesh-moving/ball_roll.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
@@ -36,7 +36,7 @@ Helicopter in hover state.
 
 Mesh moving for helicopter pitch, yaw, and roll movement
 
-<div class="row mt-3">
+<div class="row mt-3 justify-content-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/202311-mesh.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
