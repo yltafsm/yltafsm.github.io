@@ -5,7 +5,7 @@ permalink: /projects/
 description: Highlighted Research Projects from the Last 5 Years
 nav: true
 nav_order: 4
-display_categories: [Wind Energy, Urban Air Mobility, Education]
+display_categories: [Wind Energy, Urban Air Mobility, Bioinspired, Education]
 horizontal: false
 ---
 
