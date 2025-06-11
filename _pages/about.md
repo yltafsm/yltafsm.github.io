@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Welcome to Yang Liu's research page!
-earth: true
+earth: false
 profile:
   align: center
   image: yliu.jpeg
