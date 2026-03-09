@@ -35,5 +35,3 @@ I am interested in developing computational techniques that fundamentally enable
 - Mesh moving method
 - NURBS mesh generation technique for complex geometry
 - Origami Fluid--Structure Interactions (OFSI)
-
-My research passion comes from the desire to make our world a better place, and to improve humanity in a smart way, using state-of-the art technologies developed through remarkable efforts. These technologies aim to 

@@ -3,7 +3,7 @@ layout: page
 title: The maple seed
 description: "Helicopter" seed 
 img: https://userdir.tafsm.org/~yliu/website/images/mapleseed/mapleseed.png
-importance: 1
+importance: 2
 category: Bio-inspired
 related_publications: false
 ---
