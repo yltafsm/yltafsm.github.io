@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Kamihikouki
-description: 365日の紙飛行機
+description: K-12 Education
 img: https://userdir.tafsm.org/~yliu/website/images/kamihikouki/kamihikouki-manufactured.png
 importance: 1
 category: Education
 related_publications: false
 ---
 
-Coming Soon...
+Paper airplane, part of the Origami FSI. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
