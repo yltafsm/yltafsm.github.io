@@ -27,11 +27,10 @@ My research focuses on developing advanced flow simulation and modeling methods 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 
 
-To study how complex engineering systems interact with the physical world through computation, it is important to start from the fundamentals: their key components, the physical laws that govern them, and the computational methods used to understand them.
+To study how complex engineering systems interact with the physical world through computation, it is essential to begin with simplicity: the first principles of design, the governing physical laws, and the mathematical and computational models used to describe them.
 
-I am interested in developing computational techniques that fundamentally enable fast and reliable engineering design and analysis of complex systems. This work leads to the following research directions:
+My research focuses on developing computational techniques that fundamentally enable fast and reliable analysis of engineering systems, particularly those that improve the quality of human life on Earth and expand the boundaries of human exploration. I am currently working on the following research directions:
 
 - Computational aerodynamics with isogeometric analysis
-- Mesh moving method
-- NURBS mesh generation technique for complex geometry
-- Origami Fluid--Structure Interactions (OFSI)
+- Mesh moving and mesh generation technique 
+- Fluid--Structure Interactions for flexible structures (origami-inspired, Bio-inspired, ect.) 

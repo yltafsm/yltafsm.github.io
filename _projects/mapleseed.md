@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The maple seed
-description: Helicopter seed 
+title: The Maple Seed
+description: Helicopter Seed 
 img: https://userdir.tafsm.org/~yliu/website/images/mapleseed/mapleseed.png
 importance: 2
 category: Bio-inspired
@@ -9,4 +9,3 @@ related_publications: false
 ---
 
 This is part of the Bio-inspired FSI topic.
-
