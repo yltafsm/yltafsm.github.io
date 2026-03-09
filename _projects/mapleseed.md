@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The pappus parachute
-description: 
+title: The maple seed
+description: "Helicopter" seed 
 img: https://userdir.tafsm.org/~yliu/website/images/mapleseed/mapleseed.png
 importance: 1
 category: Bio-inspired

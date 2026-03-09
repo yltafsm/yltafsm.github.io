@@ -26,13 +26,14 @@ My research focuses on developing advanced flow simulation and modeling methods 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 
-To computationally study how a complex engineering system interacts with the physical world, it is important to work at the intersection of physics, computer science, and mathematics.
 
-My research interests include, but are not limited to, the following directions:
+To study how complex engineering systems interact with the physical world through computation, it is important to start from the fundamentals: their key components, the physical laws that govern them, and the computational methods used to understand them.
+
+I am interested in developing computational techniques that fundamentally enable fast and reliable engineering design and analysis of complex systems. This work leads to the following research directions:
 
 - Computational aerodynamics with isogeometric analysis
 - Mesh moving method
 - NURBS mesh generation technique for complex geometry
 - Origami Fluid--Structure Interactions (OFSI)
 
-My research passion comes from the desire to make our world a better place, and to improve humanity in a smart way, using state-of-the art technologies developed through remarkable efforts. These technologies aim to minimize the use of natural resources while maximizing happiness for others and future generations.
+My research passion comes from the desire to make our world a better place, and to improve humanity in a smart way, using state-of-the art technologies developed through remarkable efforts. These technologies aim to 
