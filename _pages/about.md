@@ -7,7 +7,7 @@ earth: false
 profile:
   align: center
   image: me_2026.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email:yang.liu@tafsm.org</p>
     <p>Department of Modern Mechanical Engineering</p>
@@ -26,7 +26,7 @@ In the past, I contributed to the development of advanced flow simulation and mo
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 
-Unlike many biological systems that have evolved the ability to fly, humans rely on engineered systems to achieve flight. This raises a fundamental question: how do engineered flying systems interact with the physical world, and how can nature inspire their design?
+Unlike many biological systems that have evolved the ability to fly, humans rely on engineered systems to achieve flight. This raises a fundamental question: how do engineered flying systems interact with the physical world, and how they are inspired by nature?
 
 My research focuses on developing computational techniques that fundamentally enable fast and reliable analysis of such systems. The central idea is to turn complex systems into simpler forms that can be analyzed either based on first principles of physics or from the perspective of design, ultimately improving our understanding and predictive capability for fluid--structure interactions (FSI) in flying systems.
 
