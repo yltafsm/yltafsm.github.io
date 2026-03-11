@@ -6,7 +6,7 @@ subtitle: Welcome to Yang Liu's research page!
 earth: false
 profile:
   align: center
-  image: yliu.jpeg
+  image: me_2026.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Email:yang.liu@tafsm.org</p>
@@ -18,19 +18,23 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am an Assistant Professor at Waseda University, School of Creative Science and Engineering.
+Prior to this, I was a postdoctoral researcher at Waseda Research Institute for Science and Engineering, where I worked with the [Team for Advanced Flow Simulation and Modeling (TAFSM)](https://www.jp.tafsm.org/en/laboratory). I received my PhD degree from Waseda University under the supervision of [Kenji Takizawa](https://www.jp.tafsm.org/en/members/kenji-takizawa) and [Tayfun E. Tezduyar](https://www.jp.tafsm.org/en/members).
 
-I am a Research Associate at [Waseda Research Institute for Science and Engineering](https://www.waseda.jp/fsci/wise/), where I work with the [Team for Advanced Flow Simulation and Modeling (TAFSM)](https://www.jp.tafsm.org/en/laboratory). I received my PhD degree from Waseda University under the supervision of [Kenji Takizawa](https://www.jp.tafsm.org/en/members/kenji-takizawa) and [Tayfun E. Tezduyar](https://www.jp.tafsm.org/en/members).
+In the past, I contributed to the development of advanced flow simulation and modeling methods for computational fluid--object and fluid--structure interactions analyses, and applied these methods to some of the most complex and challenging engineering problems in wind energy, urban air mobility, and turbomachinery. 
 
-My research focuses on developing advanced flow simulation and modeling methods for computational fluid--object and fluid--structure interactions analyses, and utilizing these methods to solve some of the most complex and challenging engineering problems in wind energy, urban air mobility, and bio-inspired engineering. The [Carrier-Domain Method (CDM)](https://link.springer.com/article/10.1007/s00466-022-02230-6), based on the [Space-Time Isogeometric Analysis (ST-IGA)](https://link.springer.com/article/10.1007/s00466-024-02535-8) framework, has brought innovative powerful ways for high-resolution, blade-resolved computational analysis of wind turbines and wind turbine wakes at the wind farm scale.
+The [Carrier-Domain Method (CDM)](https://link.springer.com/article/10.1007/s00466-022-02230-6), based on the [Space-Time Isogeometric Analysis (ST-IGA)](https://link.springer.com/article/10.1007/s00466-024-02535-8) framework, provides a powerful approach for high-resolution, blade-resolved computational analysis of wind turbines and their wakes at the wind farm scale.
 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 
+Unlike many biological systems that have evolved the ability to fly, humans rely on engineered systems to achieve flight. This raises a fundamental question: how do flying systems interact with the physical world?
 
-To study how complex engineering systems interact with the physical world through computation, it is essential to begin with simplicity: the first principles of design, the governing physical laws, and the mathematical and computational models used to describe them.
+My research develops computational techniques that fundamentally enable fast and reliable analysis of such systems. The central idea is to turn complex system into simpler forms that can be analyzed either from first principles of physics or from the perspective of design.
 
-My research focuses on developing computational techniques that fundamentally enable fast and reliable analysis of engineering systems, particularly those that improve the quality of human life on Earth and expand the boundaries of human exploration. I am currently working on the following research directions:
+Through this approach, I aim to improve our understanding and predictive capability for fluid--structure interactions (FSI) in flying systems.
 
+Current research directions include:
 - Computational aerodynamics with isogeometric analysis
-- Mesh moving and mesh generation technique 
-- Fluid--Structure Interactions for flexible structures (origami-inspired, Bio-inspired, ect.) 
+- Mesh moving and mesh generation techniques 
+- FSI for flexible structures (origami-inspired, bio-inspired, etc.) 
