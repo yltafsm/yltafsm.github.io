@@ -8,7 +8,7 @@ category: Education
 related_publications: false
 ---
 
-Paper airplane, part of the Origami FSI. 
+Paper airplane, part of the Origami FSI.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
