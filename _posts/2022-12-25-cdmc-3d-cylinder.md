@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First 3D Long-Wake Flow Computation
+title: First 3D Long-Wake Flow Computation with CDM
 date: 2022-12-25 12:00:00
 description: Flow Past a 3D Cylinder
 tags: "wake-flow"

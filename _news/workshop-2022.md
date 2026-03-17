@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yang give an presentation at the [International Workshop on Bifurcation Governed by Partial Differential Equations](https://www.waseda.jp/fsci/mathphys/news-en/16587).
+I gave a presentation at the [International Workshop on Bifurcation Governed by Partial Differential Equations](https://www.waseda.jp/fsci/mathphys/news-en/16587).

@@ -1,4 +1,4 @@
----
+--
 layout: about
 title: About
 permalink: /
@@ -25,9 +25,9 @@ My work has contributed to the development of space--time (ST) computation techn
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 
-Unlike many biological systems that have evolved the ability to fly, humans rely on engineered systems to achieve flight. This raises a fundamental question: how do engineered flying systems interact with the physical world, and how can they be inspired by nature?
+While nature evolved flight through biological adaptation, humans achieve it through engineered systems. Nature often serves as a starting point for design, and such systems can extend beyond natural designs in selected ways while interacting with the environment in which they operate. Understanding these interactions through rigorous analysis is key to advancing engineering beyond the imitation of nature.
 
-My research focuses on developing computation techniques that fundamentally enable efficient design and reliable analysis of such systems. The central idea is to turn complex systems into simpler forms that can be analyzed either based on first principles of physics or from the perspective of design, ultimately improving our understanding and predictive capability for fluid--structure interactions (FSI) in flying systems. Current research directions include:
+My research focuses on developing computational methods for the efficient design and reliable analysis of such systems. A central aim is to represent complex systems in forms that are fundamentally easy to design and analysis, whether from first principles of physics or from an engineering perspective. My current research direction is the computational analysis of fluid--structure interaction (FSI), including:
 
 - Computational aerodynamics with isogeometric analysis
 - Mesh moving and mesh generation techniques 

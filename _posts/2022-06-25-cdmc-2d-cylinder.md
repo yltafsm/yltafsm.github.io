@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First 2D Long-Wake Flow Computation
+title: First 2D Long-Wake Flow Computation with CDM
 date: 2022-06-25 12:00:00
 description: Flow Past a 2D Cylinder
 tags: "wake-flow"

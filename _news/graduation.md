@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Congratulations! I get my Ph.D. degree, and I am very lucky to have the chance to continue work at Science and Engineering at Waseda University.
+I received my Ph.D. and will continue working at the Waseda Research Institute for Science and Engineering.
