@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Yang joined the Mathematics and Physics Unit [Multiscale Analysis, Modelling and Simulation](https://www.waseda.jp/fsci/mathphys/) (SGU) , Top Global University Project.
+I joined the Mathematics and Physics Unit [Multiscale Analysis, Modelling and Simulation](https://www.waseda.jp/fsci/mathphys/) (SGU) , Top Global University Project.
