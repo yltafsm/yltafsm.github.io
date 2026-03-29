@@ -3,12 +3,10 @@ layout: page
 title: Wake Flows
 description: High-resolution methods for wake flows computation
 img: https://userdir.tafsm.org/~yliu/website/images/cdmc/cdmc-finewake.png
-importance: 2
+importance: 3
 category: Wind Energy
 related_publications: false
 ---
-
-Coming Soon...
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">

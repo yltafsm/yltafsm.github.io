@@ -29,7 +29,7 @@ featured: true
     </div>
 </div>
 
-3D cylinder long-wake flow. Isosurface of $$ x_3 $$ component of the vorticity vector from CDM-C computation. The integer-$$ T $$ instants when the inflow plane of CD is in the third quarter.
+3D cylinder long-wake flow up to 350 $$ D $$ downstream. Isosurface of $$ x_3 $$ component of the vorticity vector from CDM-C computation. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
