@@ -27,7 +27,7 @@ Blade cyclic pitch motion. Quadratic NURBS mesh; the elliptical boundary represe
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/ST-hover-aoa18-fine-perspective.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
     <div class="col-sm6 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/ST-hover-aoa18-fine-perspective.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/SW-hover-aoa18-fine-perspective.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
