@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Offshore Wind
-description: Offshore Wind Turbine and Free Surface Flow
+title: Ground Effect
+description: 2D computation showing ground effect of a helicopter
 img: https://userdir.tafsm.org/~yliu/website/images/helicopters/2d-ground-effect.png
 importance: 3
 category: Urban Air Mobility
