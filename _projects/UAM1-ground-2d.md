@@ -8,11 +8,64 @@ category: Urban Air Mobility
 related_publications: false
 ---
 
+A two-dimensional helicopter in ground effect. The rotor disk is prescribed with the hover-induced velocity obtained from momentum theory. After that, the helicopter begins to take off, with banking motion and leaning motion.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect-vorticity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
-Ground effect of a 2D helicopter. The velocity calculated from momentum theory for hover is specified at a zero-thickness rotor disk
+Vorticity 
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect-glyphs.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+Velocity glyphs. The helicopter is in ground effect 
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+Velocity glyphs. The helicopter is in ground effect 
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb1-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb2-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+    <div class="col-sm mt-4 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb3-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+Vorticity. The helicopter is climbing with speed, $$ 1.5 \mathrm{m/s} $$, $$ 3.0 \mathrm{m/s} $$, and $$ 6.0 \mathrm{m/s} $$
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-lean-vorticity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+Vorticity. The helicopter is leaning 
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-banking-vorticity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
+<div class="caption">
+Vorticity. The helicopter is banking
 </div>
