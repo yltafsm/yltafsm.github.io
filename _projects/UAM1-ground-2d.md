@@ -38,18 +38,18 @@ Velocity glyphs. The helicopter is in ground effect
 </div>
 
 <div class="row mt-3">
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb1-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb2-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
-    <div class="col-sm mt-4 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-climb3-velocity.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
 <div class="caption">
-Vorticity. The helicopter is climbing with speed, $$ 1.5 \mathrm{m/s} $$, $$ 3.0 \mathrm{m/s} $$, and $$ 6.0 \mathrm{m/s} $$
+Vorticity. The helicopter is climbing with speed, $$ 1.5, 3.0, \text{and} 6.0 \mathrm{m/s} $$
 </div>
 
 <div class="row mt-3">
