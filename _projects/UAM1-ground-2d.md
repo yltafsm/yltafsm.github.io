@@ -17,13 +17,11 @@ A two-dimensional helicopter in ground effect. The rotor disk is prescribed with
 </div>
 <div class="caption">
 Vorticity. The helicopter is in ground effect 
- 
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect-glyphs.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
-        poster="https://userdir.tafsm.org/~yliu/website/images/helicopters/ground-effect/2d-ground-effect-glyphs.png"
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/helicopter/2d-ground-effect-glyphs.mp4" class="img-fluid rounded z-depth-1" poster="https://userdir.tafsm.org/~yliu/website/images/helicopters/ground-effect/2d-ground-effect-glyphs.png" controls=true %}
     </div>
 </div>
 <div class="caption">
