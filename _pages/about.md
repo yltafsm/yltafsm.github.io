@@ -25,7 +25,14 @@ My work has contributed to the development of space--time (ST) computation techn
 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
-
+{% include video.liquid
+   path="https://www.youtube.com/watch?v=L65iTRBTzTY"
+   class="img-fluid rounded z-depth-1"
+   controls=true %}
+{% include video.liquid
+   path="https://www.youtube.com/watch?v=iFho1VMaquU"
+   class="img-fluid rounded z-depth-1"
+   controls=true %}
 Flight in nature comes from evolution, while human flight is built through engineering. My research interests are in both domains. I develop computational methods to help design and analyze complex systems more efficiently. I'm particularly interested in representing these systems in ways that are intuitive and easy to work with, whether from first principles of physics or from an engineering perspective.
 
 Understanding the fluid, structure, and their interactions is essential for moving beyond original forms and bringing innovation to flight systems. My current research direction is the computational analysis of fluid--structure interaction (FSI) problems, including:
