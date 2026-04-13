@@ -4,20 +4,20 @@ title: First 2D Long-Wake Flow Computation with CDM
 date: 2022-06-25 12:00:00
 description: Flow Past a 2D Cylinder
 tags: "wake-flow"
-categories: CDM ST-Method ST-SUPS ST-VMS IGA
+categories: CDM
 featured: true
 related_publications: true
 ---
 
 <div class="row mt-3">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-pressure.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-pressure.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-velocity-u.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-velocity-u.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-velocity-v.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/cd-velocity-v.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 <div class="caption">
@@ -26,7 +26,7 @@ related_publications: true
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/CDM-C_2K.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="https://userdir.tafsm.org/~yliu/website/videos/cdm/CDM-C_2K.mp4" class="img-fluid rounded z-depth-1" class="img-fluid rounded z-depth-1" controls=true muted=true %}
     </div>
 </div>
 
