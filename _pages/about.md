@@ -24,29 +24,16 @@ I am an Assistant Professor at Waseda University, School of Creative Science and
 My work has contributed to the development of space--time (ST) computation techniques for aerodynamic analysis, particularly for resolving time-periodic long-wake flows, and for addressing some of the most challenging problems in wind energy, urban air mobility, and turbomachinery. The [Carrier-Domain Method (CDM)](https://link.springer.com/article/10.1007/s00466-022-02230-6), based on the [Space-Time Isogeometric Analysis (ST-IGA)](https://link.springer.com/article/10.1007/s00466-024-02535-8) framework, provides a powerful approach for high-resolution, blade-resolved computational analysis of wind turbines wakes at the wind farm scale.
 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
-<img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
+<img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:50%; height:auto;">
+<video controls style="max-width:100%; height:auto;">
+  <source src="https://userdir.tafsm.org/~yliu/website/videos/15mw/cfd39-1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video controls style="max-width:50%; height:auto;">
+  <source src="https://userdir.tafsm.org/~yliu/website/videos/15mw/cfd39-2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://www.youtube.com/watch?v=L65iTRBTzTY"
-    title="YouTube video"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://www.youtube.com/watch?v=iFho1VMaquU"
-    title="YouTube video"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
 Flight in nature comes from evolution, while human flight is built through engineering. My research interests are in both domains. I develop computational methods to help design and analyze complex systems more efficiently. I'm particularly interested in representing these systems in ways that are intuitive and easy to work with, whether from first principles of physics or from an engineering perspective.
 
 Understanding the fluid, structure, and their interactions is essential for moving beyond original forms and bringing innovation to flight systems. My current research direction is the computational analysis of fluid--structure interaction (FSI) problems, including:
