@@ -24,8 +24,8 @@ I am an Assistant Professor at Waseda University, School of Creative Science and
 My work has contributed to the development of space--time (ST) computation techniques for aerodynamic analysis, particularly for resolving time-periodic long-wake flows, and for addressing some of the most challenging problems in wind energy, urban air mobility, and turbomachinery. The [Carrier-Domain Method (CDM)](https://link.springer.com/article/10.1007/s00466-022-02230-6), based on the [Space-Time Isogeometric Analysis (ST-IGA)](https://link.springer.com/article/10.1007/s00466-024-02535-8) framework, provides a powerful approach for high-resolution, blade-resolved computational analysis of wind turbines wakes at the wind farm scale.
 
 <img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d-periodic.gif" alt="GIF broken" style="max-width:100%; height:auto;">
-<img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:50%; height:auto;">
-<video controls style="max-width:100%; height:auto;">
+<img src="https://userdir.tafsm.org/~yliu/website/images/cdmd/cdmd-10d.gif" alt="GIF broken" style="max-width:100%; height:auto;">
+<video controls style="max-width:50%; height:auto;">
   <source src="https://userdir.tafsm.org/~yliu/website/videos/15mw/cfd39-1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
